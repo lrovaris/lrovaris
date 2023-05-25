@@ -20,7 +20,6 @@ const Rovaris = {
   code: [Javascript, Ruby, Solidity, HTML, CSS, Python, C#],
   tools: [Angular, Rails, MongoDB, Node, Docker, Hardhat],
   architecture: ["test-driven", "event-driven", "design system pattern,"]
- challenge: "I am doing the #100DaysOfCode challenge focused on Angular and typescript"
 }
 ```
 
