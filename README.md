@@ -70,7 +70,7 @@ With over a decade of hands-on experience in **Angular**, I specialize in crafti
 ```javascript
 // Angular 14 with AWS and Azure Integration
 const teamLead = (team) => {
-    team.use(['Angular 14', 'AWS AppSync', 'Azure']);
+    team.use(['Angular 14', 'GCP, 'Azure']);
     optimizeServer('Node.js', 'Express', (app) => {
         app.lighthouseScore = 95; // Improved from 34
     });
