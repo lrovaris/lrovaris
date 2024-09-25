@@ -1,26 +1,125 @@
-<h2> Hi, I'm Luís Rovaris! 
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h2>
-<img style="border-radius: 50%" align='right' src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" width="250">
-<p><em>Software Enginner
-</br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em>
-</p>
 
-[![Twitter: luisGabrielDev](https://img.shields.io/twitter/follow/LuisGabrielDev?style=social)](https://twitter.com/LuisGabrielDev)
-[![Linkedin: luisrovaris](https://img.shields.io/badge/-luisrovaris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisrovaris/)](https://www.linkedin.com/in/luisrovaris/)
-[![GitHub lrovaris](https://img.shields.io/github/followers/lrovaris?label=follow&style=social)](https://github.com/lrovaris)
+# Luís Rovaris
 
+**Senior Full-Stack Developer | Angular Expert | Cloud Integration**  
+**Location:** Florianópolis, SC, Brazil  
+**Contact:**  
+- **Mobile:** +55 48991997161  
+- **Email:** luis.gabrielrovaris@gmail.com  
+- **LinkedIn:** [linkedin.com/in/luisrovaris](https://www.linkedin.com/in/luisrovaris)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+---
+
+## 🛠️ **Skills**
 
 ```javascript
-const Rovaris = {
-  code: [Javascript, Ruby, Solidity, HTML, CSS, Python, C#],
-  tools: [Angular, Rails, MongoDB, Node, Docker, Hardhat],
-  architecture: ["test-driven", "event-driven", "design system pattern,"]
-}
+// Frontend Mastery
+const frontend = {
+    frameworks: ['Angular 2+', 'AngularJS', 'RxJS', 'NgRx', 'Next.js'],
+    libraries: ['Angular Material', 'Bootstrap 4/5', 'ag-grid'],
+    tools: ['API Integration', 'State Management', 'Jest', 'Jasmine'],
+    performance: {
+        optimize: function(component) {
+            // Example performance tweak
+            return component.memoizedProps ? reuse(component) : refactor(component);
+        }
+    }
+};
+
+// Backend Proficiency
+const backend = {
+    languages: ['Node.js', 'Express', 'GraphQL'],
+    patterns: ['RESTful APIs', 'Microservices Architecture'],
+    optimizations: {
+        'ORM': 'TypeORM',
+        'Scalability': 'Event-driven architecture'
+    }
+};
+
+// Cloud & DevOps
+const cloudDevOps = {
+    platforms: ['Google Cloud Platform (GCP)', 'AWS'],
+    tools: ['Docker', 'Jenkins', 'CI/CD Pipelines'],
+    strategies: {
+        containerize: (app) => `Dockerizing ${app} for isolated, scalable environments`
+    }
+};
+
+// Blockchain Expertise
+const blockchain = {
+    integrations: ['Ethereum', 'Solidity'],
+    secureIntegration: (contract) => `Integrating ${contract} with Angular securely for decentralized applications`
+};
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- **Languages:** `English` (Full Professional), `Portuguese` (Native)
+
+---
+
+## 🌟 **Summary**
+
+With over a decade of hands-on experience in **Angular**, I specialize in crafting high-performance, scalable front-end applications. My deep dive into JavaScript's event loop and Angular's reactive programming has allowed me to lead projects that are both fast and maintainable. Currently excelling as a Senior Developer at **Simonini Software**, I leverage best practices to optimize server-side performance, collaborating with global teams to bring projects to the next level.
+
+---
+
+## 💼 **Experience**
+
+### **Simonini Software**  
+**Senior Full-Stack Developer**  
+*December 2023 - Present*  
+```javascript
+// Angular 14 with AWS and Azure Integration
+const teamLead = (team) => {
+    team.use(['Angular 14', 'AWS AppSync', 'Azure']);
+    optimizeServer('Node.js', 'Express', (app) => {
+        app.lighthouseScore = 95; // Improved from 34
+    });
+};
+```
+- Led a team of 5 developers, integrated with AWS and Azure services.
+- Implemented advanced optimizations to boost the Lighthouse performance score.
+
+### **Danki Code AI**  
+**Front-end Developer**  
+*July 2023 - October 2023*  
+```javascript
+// Angular, Node.js, and GraphQL Performance Boost
+const enhanceUI = (components) => {
+    components.forEach(component => {
+        component.use(['NGX-Bootstrap', 'NG-Bootstrap']);
+    });
+    return components.satisfactionScore += 20;
+};
+```
+- Enhanced user interfaces, leading to a boost in user satisfaction scores.
+- Implemented GraphQL for efficient data interactions.
+
+### **Upwork**  
+**Freelance Full-Stack Developer**  
+*November 2022 - September 2023*  
+- Delivered scalable front-end applications with a focus on performance for global clients.
+
+---
+
+## 🎓 **Education**
+
+**Universidade Federal de Santa Catarina**  
+*Bachelor's degree in Computer Science*  
+*January 2017 - October 2023*
+
+---
+
+## 📈 **Projects**
+
+- **Migration of Legacy AngularJS Application:**  
+  ```javascript
+  // Migrating AngularJS to Angular 12
+  const legacyMigration = (app) => {
+      app.stateManagement = 'modernized';
+      app.performance = 'optimized';
+      return app;
+  };
+  ```
+  Led the migration of a legacy AngularJS app to Angular 12, introducing modern state management to enhance performance and maintainability.
+
+---
