@@ -53,7 +53,7 @@ Built end to end by Rovaris Tech: the smart contracts, a double-entry ledger, on
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Phaser-8a2be2?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phaser-8a2be2?style=flat-square"/>
 </p>
 
 ## 💼 Experience
