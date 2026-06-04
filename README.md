@@ -1,125 +1,80 @@
+<h1 align="center">Luís Rovaris</h1>
 
-# Luís Rovaris
+<p align="center">
+  <b>Production-grade web3 engineer.</b><br/>
+  I build the systems that move money on-chain — and the games, contracts, and apps around them.
+</p>
 
-**Senior Full-Stack Developer | Angular Expert | Cloud Integration**  
-**Location:** Florianópolis, SC, Brazil  
-**Contact:**  
-- **Mobile:** +55 48991997161  
-- **Email:** luis.gabrielrovaris@gmail.com  
-- **LinkedIn:** [linkedin.com/in/luisrovaris](https://www.linkedin.com/in/luisrovaris)
+<p align="center">
+  Founder of <a href="https://rovaris.tech"><b>Rovaris Tech</b></a> · Senior full-stack developer · Florianópolis, Brazil 🇧🇷
+</p>
 
----
-
-## 🛠️ **Skills**
-
-```javascript
-// Frontend Mastery
-const frontend = {
-    frameworks: ['Angular 2+', 'AngularJS', 'RxJS', 'NgRx', 'Next.js'],
-    libraries: ['Angular Material', 'Bootstrap 4/5', 'ag-grid'],
-    tools: ['API Integration', 'State Management', 'Jest', 'Jasmine'],
-    performance: {
-        optimize: function(component) {
-            // Example performance tweak
-            return component.memoizedProps ? reuse(component) : refactor(component);
-        }
-    }
-};
-
-// Backend Proficiency
-const backend = {
-    languages: ['Node.js', 'Express', 'GraphQL'],
-    patterns: ['RESTful APIs', 'Microservices Architecture'],
-    optimizations: {
-        'ORM': 'TypeORM',
-        'Scalability': 'Event-driven architecture'
-    }
-};
-
-// Cloud & DevOps
-const cloudDevOps = {
-    platforms: ['Google Cloud Platform (GCP)', 'AWS'],
-    tools: ['Docker', 'Jenkins', 'CI/CD Pipelines'],
-    strategies: {
-        containerize: (app) => `Dockerizing ${app} for isolated, scalable environments`
-    }
-};
-
-// Blockchain Expertise
-const blockchain = {
-    integrations: ['Ethereum', 'Solidity'],
-    secureIntegration: (contract) => `Integrating ${contract} with Angular securely for decentralized applications`
-};
-```
-
-- **Languages:** `English` (Full Professional), `Portuguese` (Native)
+<p align="center">
+  <a href="https://rovaris.tech"><img src="https://img.shields.io/badge/rovaris.tech-0a0f1c?style=flat-square&logo=vercel&logoColor=58a6ff" alt="rovaris.tech"/></a>
+  <a href="https://x.com/luisgabrieldev"><img src="https://img.shields.io/badge/@luisgabrieldev-0a0f1c?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/luisrovaris"><img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:contact@rovaris.tech"><img src="https://img.shields.io/badge/contact@rovaris.tech-0a0f1c?style=flat-square&logo=maildotru&logoColor=58a6ff" alt="Email"/></a>
+</p>
 
 ---
 
-## 🌟 **Summary**
+## What I build
 
-With over a decade of hands-on experience in **Angular**, I specialize in crafting high-performance, scalable front-end applications. My deep dive into JavaScript's event loop and Angular's reactive programming has allowed me to lead projects that are both fast and maintainable. Currently excelling as a Senior Developer at **Simonini Software**, I leverage best practices to optimize server-side performance, collaborating with global teams to bring projects to the next level.
+- 🔗 **Smart contracts & crypto rails** — Solidity on Foundry, deposit/withdraw flows, EIP-712 signed authorization, balance ledgers that reconcile to the chain.
+- 🎲 **Provably-fair systems** — game outcomes anyone can verify, double-entry accounting, conservation invariants that never drift.
+- 🕹️ **Games & web apps** — Phaser / WebGL games with on-chain hooks, and fast Next.js + TypeScript front-ends.
 
----
+## 🏆 Flagship — a provably-fair crypto gaming platform
 
-## 💼 **Experience**
+Built end to end by Rovaris Tech: the smart contracts, a double-entry ledger, on-chain wallet rails, and three real-time games on top. Real money in, real money out, every outcome verifiable.
 
-### **Simonini Software**  
-**Senior Full-Stack Developer**  
-*December 2023 - Present*  
-```javascript
-// Angular 14 with AWS and Azure Integration
-const teamLead = (team) => {
-    team.use(['Angular 14', 'GCP, 'Azure']);
-    optimizeServer('Node.js', 'Express', (app) => {
-        app.lighthouseScore = 95; // Improved from 34
-    });
-};
-```
-- Led a team of 5 developers, integrated with AWS and Azure services.
-- Implemented advanced optimizations to boost the Lighthouse performance score.
+| Metric | |
+| --- | --- |
+| Tests green | **~4,000** |
+| Ledger throughput | **200–250 tx/min** |
+| Smart-contract coverage | **100%** |
+| Infra cost at launch | **$15–30/mo** |
 
-### **Danki Code AI**  
-**Front-end Developer**  
-*July 2023 - October 2023*  
-```javascript
-// Angular, Node.js, and GraphQL Performance Boost
-const enhanceUI = (components) => {
-    components.forEach(component => {
-        component.use(['NGX-Bootstrap', 'NG-Bootstrap']);
-    });
-    return components.satisfactionScore += 20;
-};
-```
-- Enhanced user interfaces, leading to a boost in user satisfaction scores.
-- Implemented GraphQL for efficient data interactions.
+> Any integrity breach auto-halts the economy before a bad transfer can land. The books are provable, on-chain, at any moment.
 
-### **Upwork**  
-**Freelance Full-Stack Developer**  
-*November 2022 - September 2023*  
-- Delivered scalable front-end applications with a focus on performance for global clients.
+## 🧰 Stack
 
----
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foundry-2b2d31?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phaser-8a2be2?style=flat-square&logo=react&logoColor=white"/>
+</p>
 
-## 🎓 **Education**
+## 💼 Experience
 
-**Universidade Federal de Santa Catarina**  
-*Bachelor's degree in Computer Science*  
-*January 2017 - October 2023*
+- **Senior Full-Stack Developer — Simonini Software** · *2023 – present*<br/>
+  Angular + Node/Express on GCP & Azure. Led a 5-developer team; took a key app's Lighthouse score from **34 → 95**.
+- **Front-end Developer — Danki Code AI** · *2023*<br/>
+  Angular + GraphQL interface work.
+- **Freelance Full-Stack — Upwork** · *2022 – 2023*<br/>
+  Performance-focused front-ends for clients worldwide.
+- **BSc Computer Science — Universidade Federal de Santa Catarina (UFSC)**
 
----
+## 📫 Reach me
 
-## 📈 **Projects**
+- 🌐 **[rovaris.tech](https://rovaris.tech)** — the studio, and how to hire it
+- ✉️ **contact@rovaris.tech**
+- 𝕏 **[@luisgabrieldev](https://x.com/luisgabrieldev)** · 💬 **[LinkedIn](https://www.linkedin.com/in/luisrovaris)**
 
-- **Migration of Legacy AngularJS Application:**  
-  ```javascript
-  // Migrating AngularJS to Angular 12
-  const legacyMigration = (app) => {
-      app.stateManagement = 'modernized';
-      app.performance = 'optimized';
-      return app;
-  };
-  ```
-  Led the migration of a legacy AngularJS app to Angular 12, introducing modern state management to enhance performance and maintainability.
+<br/>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lrovaris&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=issues" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrovaris&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="160" alt="top languages"/>
+</p>
